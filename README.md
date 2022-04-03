@@ -1,4 +1,5 @@
-## Hello World!! 👋
+# Hello World!! 👋 
+
 #### I am Daniel, is nice to see you here. Please feel free to look all my repositories 😄
 - Actualy working as intern at Prysmian Group ❤
 - FATEC - technology college here in Sorocaba/BR 
@@ -14,7 +15,7 @@
 <br>
  
 ##  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>Skills</h3>
   <img align="center" alt="Daniel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Daniel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,6 +29,7 @@
   ##
   
  <div> 
+  <h3>Social Media</h3>
   <a href="https://www.instagram.com/_daniel.bispo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
   <a href = "mailto:danielbispo3015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
   <a href="https://www.linkedin.com/in/daniel-bispo-3015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
