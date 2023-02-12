@@ -1,10 +1,10 @@
 # Hello, World!! 👋 
 
 #### I am Daniel, is nice to see you here. Please feel free to look all my repositories 😄
-- Actually working as intern at Prysmian Group ❤
+- Working as intern at Prysmian Group 
 - FATEC - technology college here in Sorocaba/BR 
   - 4° period
-  - Actualy focusing on back-end with languages like Java or JS in NodeJS
+  - Actuaçly focusing on back-end with languages like Java or JS in NodeJS
 
 <br>
 <div align="center">
