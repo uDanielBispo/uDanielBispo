@@ -4,7 +4,7 @@
 - Working as intern at Prysmian Group 
 - FATEC - technology college here in Sorocaba/BR 
   - 4° period
-  - Actually focusing on back-end with languages like Java or JS in NodeJS
+  - Actually focusing on back-end with languages like Java or JS and NodeJS
 
 <br>
 <div align="center">
