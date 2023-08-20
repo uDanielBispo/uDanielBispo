@@ -3,7 +3,7 @@
 #### I am Daniel, is nice to see you here. Please feel free to look all my repositories 😄
 - Working as intern at Prysmian Group 
 - FATEC - technology college here in Sorocaba/BR 
-  - 4° period
+  - 5° period
   
 
 <br>
