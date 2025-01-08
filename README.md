@@ -1,9 +1,9 @@
 # Hello, World!! 👋 
 
 #### I am Daniel, is nice to see you here. Please feel free to look all my repositories 😄
-- Working as Web Apps Analyst at Prysmian Group 
+- Working as Web Apps and BI Analyst at Prysmian Group 
 - FATEC - technology college here in Sorocaba/BR 
-  - 7° period
+  - 8° period
   
 
 <br>
