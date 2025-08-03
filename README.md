@@ -21,8 +21,6 @@
   <img align="center" alt="Daniel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Daniel-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Daniel-pic" height="130" src="https://avatars.githubusercontent.com/u/83671699?s=400&u=4301035b2164cb0dc35f232af0a3e3375f6a9e26&v=4">
   <br><br><br><br><br>
  </div>
   
