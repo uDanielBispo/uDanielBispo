@@ -5,9 +5,9 @@
 - FATEC - technology college (Graduated) 
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uDanielBispo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 <br>
  <div> 
   <h3>Social Media</h3>
